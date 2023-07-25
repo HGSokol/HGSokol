@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gleb Sokolov</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-- 📫 How to reach me **g.w.sokolov98@mail.ru**
+- 📫 How to reach me **<a href="mailto:g.w.sokolov98@mail.ru">g.w.sokolov98@mail.ru</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

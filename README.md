@@ -11,6 +11,9 @@
   <a href="https://www.instagram.com/g.sokol.off/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gleb-sokolov-b045b2229" height="30" width="40" />
   </a>
+  <a href="https://t.me/NinjsWay" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/telegram.svg" alt="gleb-sokolov-b045b2229" height="30" width="40" />
+  </a>
 <!--   <a href="https://www.codewars.com/users/SokG" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://www.codewars.com/users/SokG" height="30" width="40" />
   </a> -->

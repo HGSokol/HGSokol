@@ -66,3 +66,4 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hgsokol&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hgsokol" /></p>
 
+[![Profile badge](https://www.codewars.com/users/SokG/badges/small)](https://www.codewars.com/users/SokG)

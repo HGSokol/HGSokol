@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gleb Sokolov</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
-- 📫 How to reach me **<a href="mailto:g.w.sokolov98@mail.ru">g.w.sokolov98@mail.ru</a>**
+📫 How to reach me **<a href="mailto:g.w.sokolov98@mail.ru">g.w.sokolov98@mail.ru</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,56 +14,19 @@
   <a href="https://t.me/NinjsWay" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/telegram.svg" alt="gleb-sokolov-b045b2229" height="30" width="40" />
   </a>
-<!--   <a href="https://www.codewars.com/users/SokG" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://www.codewars.com/users/SokG" height="30" width="40" />
-  </a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> 
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-   </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hgsokol&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hgsokol" /></p>
+# My Tech Stack
 
-[![Profile badge](https://www.codewars.com/users/SokG/badges/small)](https://www.codewars.com/users/SokG)
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,redux,bootstrap,tailwind,gulp,webpack,vite,jest,figma&perline=10)](https://skillicons.dev)
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,mongodb&perline=10)](https://skillicons.dev)
+
+## DevOps
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux&perline=10)](https://skillicons.dev)
+
+<div>
+ <img style='width:58%;' src="https://github.r2v.ch/codewars?user=SokG" /> 
+ <img style='width:41%;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgsokol&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+</div>
